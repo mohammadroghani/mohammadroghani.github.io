@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D. at Stanford University, where I am very fortunate to be advised by Amin Saberi. Before joining Stanford University, I received my B.Sc. in Computer Engineering from Sharif University of Technology. In the summer of 2022, I was an intern in the dynamic pricing team at Uber working on riders' surge pricing.
+I am a second year Ph.D. student at [Stanford University](https://www.stanford.edu/), where I am very fortunate to be advised by [Amin Saberi](https://web.stanford.edu/~saberi/). Before joining Stanford University, I received my B.Sc. in Computer Engineering from [Sharif University of Technology](https://en.sharif.edu/). In the summer of 2022, I was an intern in the **dynamic pricing** team at [Uber](https://www.uber.com/) working on riders' surge pricing.
 
-I am broadly interested in theoretical computer science. More specifically, I am working on designing fast algorithms for large-scale and evolving graph problems such as designing sublinear algorithms and dynamic algorithms. 
+I am broadly interested in **theoretical computer science**. More specifically, I am working on designing algorithms for large-scale graph problems and graph problems in an uncertain environment which includes **sublinear algorithms**, **dynamic algorithms**, and **online algorithms**. 
 
-A data-driven personal website
+Publications
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
