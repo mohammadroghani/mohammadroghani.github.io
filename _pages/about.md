@@ -15,6 +15,42 @@ I am broadly interested in **theoretical computer science**. More specifically, 
 Publications
 ======
 
-- Beating Greedy Matching in Sublinear Time
-  Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein, Amin Saberi.
-  **(SODA 2023)** ACM-SIAM Symposium on Discrete Algorithms 2023 - (Forthcoming)
+- **Beating Greedy Matching in Sublinear Time**\
+  Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein, Amin Saberi\
+  **(SODA 2023)** ACM-SIAM Symposium on Discrete Algorithms 2023
+  
+- **Improved Online Contention Resolution for Matchings and Applications to the Gig Economy**\
+  Tristan Pollner, Mohammad Roghani, Amin Saberi, David Wajc\
+  **(EC 2022)** ACM Conference on Economics and Computation 2022
+  
+- **Sequential Importance Sampling for Estimating Expectations over the Space of Perfect Matchings**\
+  Yeganeh Alimohammadi, Persi Diaconis, Mohammad Roghani, Amin Saberi\
+  To appear in **Annals of Applied Probability**
+ 
+- **Beating the Folklore Algorithm for Dynamic Matching**\
+  Mohammad Roghani, Amin Saberi, David Wajc\
+  **(ITCS 2022)** Innovations in Theoretical Computer Science 2022
+
+- **Complexity of Computing the Anti-Ramsey Numbers for Paths**\
+  Saeed Akhoondian Amiri, Alexandru Popa, Mohammad Roghani, Golnoosh Shahkarami, Reza Soltani, Hossein Vahidi\
+  **(MFCS 2020)** International Symposium on Mathematical Foundations of Computer Science 2020
+  
+- **Some Results on Dominating Induced Matching**\
+  Saieed Akbari, Hossein Baktash, Amin Behjati, Afshin Behmaram, Mohammad Roghani\
+  **Graphs and Combinatorics**
+  
+- **TPS (Task Preparation System): A Tool for Developing Tasks in Programming Contests**\
+  Kian Mirjalali, Amirkeivan Mohtashami, Mohammad Roghani, Hamid Zarrabi-Zadeh\
+  **Olympiads in Informatics 2019**
+  
+ 
+Fellowships & Awards
+======
+- Recipient of the **Krishnan Shah Graduate Fellowship 2023**.
+- Recipient of the **Charles and Katharine Lin Graduate Fellowship 2022**.
+- Recipient of the **Eltoukhy Family Graduate Fellowship 2021**.
+- **Gold Medal** in the **Iran National Olympiad in Informatics** (INOI), 2014.
+- **Silver Medal** in the **Asia Pacific Olympiad in Informatics** (APIO), Indonesia, 2015.
+- **2<sup>nd</sup>** and **3<sup>rd</sup>** team in the **ACM-ICPC West Asia Regional Contest** 2015 and 2017, respectively.
+
+  
