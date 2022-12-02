@@ -14,7 +14,6 @@ I am broadly interested in **theoretical computer science**. More specifically, 
 
 Publications
 ======
-<font size="4">
 
 - **Beating Greedy Matching in Sublinear Time**\
   Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein, Amin Saberi\
@@ -50,8 +49,6 @@ Publications
   Kian Mirjalali, Amirkeivan Mohtashami, Mohammad Roghani, Hamid Zarrabi-Zadeh\
   **Olympiads in Informatics 2019**.\
   [Full Version](https://ioinformatics.org/journal/v13_2019_209_216.pdf)
-
-</font>
  
 Fellowships & Awards
 ======
