@@ -15,10 +15,10 @@ I am broadly interested in **theoretical computer science**. More specifically, 
 Publications
 ======
 
-- **Beating Greedy Matching in Sublinear Time**\
-  Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein, Amin Saberi\
-  **(SODA 2023)** ACM-SIAM Symposium on Discrete Algorithms 2023.\
-  [Full Version](https://arxiv.org/abs/2206.13057)
+- **<font size="3">Beating Greedy Matching in Sublinear Time</font>** \
+  <font size="3">Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein, Amin Saberi</font> \
+  **<font size="3">(SODA 2023)</font>** <font size="3">ACM-SIAM Symposium on Discrete Algorithms 2023.</font> \
+  <font size="3">[Full Version](https://arxiv.org/abs/2206.13057)</font>
   
 - **Improved Online Contention Resolution for Matchings and Applications to the Gig Economy**\
   Tristan Pollner, Mohammad Roghani, Amin Saberi, David Wajc\
