@@ -21,7 +21,7 @@ Publications
   [Full Version](https://arxiv.org/abs/2206.13057)
   
 - **Improved Online Contention Resolution for Matchings and Applications to the Gig Economy**\
-  Tristan Pollner, Mohammad Roghani, Amin Saberi, David Wajc\
+  <font size=”1”>Tristan Pollner, Mohammad Roghani, Amin Saberi, David Wajc</font>\
   **(EC 2022)** ACM Conference on Economics and Computation 2022.\
   [Full Version](https://arxiv.org/abs/2205.08667)
   
