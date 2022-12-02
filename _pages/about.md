@@ -18,7 +18,7 @@ Publications
 - **Beating Greedy Matching in Sublinear Time** \
   Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein, Amin Saberi\
   **(SODA 2023)** ACM-SIAM Symposium on Discrete Algorithms 2023.\
-  [Full Version](https://arxiv.org/abs/2206.13057]
+  [Full Version](https://arxiv.org/abs/2206.13057)
   
 - **Improved Online Contention Resolution for Matchings and Applications to the Gig Economy**\
   Tristan Pollner, Mohammad Roghani, Amin Saberi, David Wajc\
