@@ -14,6 +14,7 @@ I am broadly interested in **theoretical computer science**. More specifically, 
 
 Publications
 ======
+<font size="4">
 
 - **Beating Greedy Matching in Sublinear Time**\
   Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein, Amin Saberi\
@@ -21,7 +22,7 @@ Publications
   [Full Version](https://arxiv.org/abs/2206.13057)
   
 - **Improved Online Contention Resolution for Matchings and Applications to the Gig Economy**\
-  <font size="3">Tristan Pollner, Mohammad Roghani, Amin Saberi, David Wajc</font>\
+  Tristan Pollner, Mohammad Roghani, Amin Saberi, David Wajc\
   **(EC 2022)** ACM Conference on Economics and Computation 2022.\
   [Full Version](https://arxiv.org/abs/2205.08667)
   
@@ -49,7 +50,8 @@ Publications
   Kian Mirjalali, Amirkeivan Mohtashami, Mohammad Roghani, Hamid Zarrabi-Zadeh\
   **Olympiads in Informatics 2019**.\
   [Full Version](https://ioinformatics.org/journal/v13_2019_209_216.pdf)
-  
+
+</font>
  
 Fellowships & Awards
 ======
