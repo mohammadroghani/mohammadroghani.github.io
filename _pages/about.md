@@ -15,6 +15,11 @@ I am broadly interested in **theoretical computer science**. More specifically, 
 Publications
 ======
 
+- **Sublinear Time Algorithms and Complexity of Approximate Maximum Matching**
+  Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein\
+  Submitted\
+  [Full Version](https://arxiv.org/abs/2211.15843)
+
 - **Beating Greedy Matching in Sublinear Time** \
   Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein, Amin Saberi\
   **(SODA 2023)** ACM-SIAM Symposium on Discrete Algorithms 2023.\
