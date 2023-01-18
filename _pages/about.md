@@ -15,12 +15,12 @@ I am broadly interested in **theoretical computer science**. More specifically, 
 Publications
 ======
 
-- **Sublinear Algorithms for TSP via Path Covers**
+- **Sublinear Algorithms for TSP via Path Covers** \
   Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein, Amin Saberi\
   Submitted\
   [Full Version](https://arxiv.org/abs/2301.05350)
 
-- **Sublinear Time Algorithms and Complexity of Approximate Maximum Matching**
+- **Sublinear Time Algorithms and Complexity of Approximate Maximum Matching** \
   Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein\
   Submitted\
   [Full Version](https://arxiv.org/abs/2211.15843)
