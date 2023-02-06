@@ -22,7 +22,7 @@ Publications
 
 - **Sublinear Time Algorithms and Complexity of Approximate Maximum Matching** \
   Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein\
-  **(STOC 2023)** Annual ACM Symposium on Theory of Computing.\
+  **(STOC 2023)** ACM Symposium on Theory of Computing.\
   [Full Version](https://arxiv.org/abs/2211.15843)
 
 - **Beating Greedy Matching in Sublinear Time** \
