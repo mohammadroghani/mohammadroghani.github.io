@@ -12,6 +12,8 @@ I am a second year Ph.D. student at [Stanford University](https://www.stanford.e
 
 I am broadly interested in **theoretical computer science**. More specifically, I am working on designing algorithms for large-scale graph problems and graph problems in an uncertain environment, which includes **sublinear algorithms**, **dynamic algorithms**, and **online algorithms**. 
 
+<br>
+
 ### Publications
 
 <div style="line-height:150%;">
@@ -62,6 +64,8 @@ I am broadly interested in **theoretical computer science**. More specifically, 
   Kian Mirjalali, Amirkeivan Mohtashami, Mohammad Roghani, Hamid Zarrabi-Zadeh\
   **Olympiads in Informatics 2019**.\
   [Full Version](https://ioinformatics.org/journal/v13_2019_209_216.pdf)
+ 
+ <br>
  
 ### Fellowships & Awards
 
