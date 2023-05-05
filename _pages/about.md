@@ -13,7 +13,6 @@ I am a second year Ph.D. student at [Stanford University](https://www.stanford.e
 I am broadly interested in **theoretical computer science**. More specifically, I am working on designing algorithms for large-scale graph problems and graph problems in an uncertain environment, which includes **sublinear algorithms**, **dynamic algorithms**, and **online algorithms**. 
 
 ### Publications
-======
 
 - **Sublinear Algorithms for TSP via Path Covers** \
   Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein, Amin Saberi\
@@ -61,7 +60,7 @@ I am broadly interested in **theoretical computer science**. More specifically, 
   [Full Version](https://ioinformatics.org/journal/v13_2019_209_216.pdf)
  
 ### Fellowships & Awards
-======
+
 - Recipient of the **Krishnan Shah Graduate Fellowship 2023**.
 - Recipient of the **Charles and Katharine Lin Graduate Fellowship 2022**.
 - Recipient of the **Eltoukhy Family Graduate Fellowship 2021**.
