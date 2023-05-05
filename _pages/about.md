@@ -12,8 +12,7 @@ I am a second year Ph.D. student at [Stanford University](https://www.stanford.e
 
 I am broadly interested in **theoretical computer science**. More specifically, I am working on designing algorithms for large-scale graph problems and graph problems in an uncertain environment, which includes **sublinear algorithms**, **dynamic algorithms**, and **online algorithms**. 
 
-### Publications
-
+###Publications
 ======
 
 - **Sublinear Algorithms for TSP via Path Covers** \
@@ -61,8 +60,7 @@ I am broadly interested in **theoretical computer science**. More specifically, 
   **Olympiads in Informatics 2019**.\
   [Full Version](https://ioinformatics.org/journal/v13_2019_209_216.pdf)
  
-### Fellowships & Awards
-
+###Fellowships & Awards
 ======
 
 - Recipient of the **Krishnan Shah Graduate Fellowship 2023**.
