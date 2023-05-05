@@ -49,7 +49,7 @@ I am broadly interested in **theoretical computer science**. More specifically, 
   [Full Version](https://arxiv.org/abs/2106.10321)
 
 **Complexity of Computing the Anti-Ramsey Numbers for Paths**\
-  Saeed Amiri, Alexandru Popa, Mohammad Roghani, Golnoosh Shahkarami, Reza Soltani, Hossein Vahidi\
+  Saeed Akhoondian Amiri, Alexandru Popa, Mohammad Roghani, Golnoosh Shahkarami, Reza Soltani, Hossein Vahidi\
   **(MFCS 2020)** International Symposium on Mathematical Foundations of Computer Science 2020\
   [Full Version](https://arxiv.org/abs/1810.08004)
 
