@@ -14,6 +14,8 @@ I am broadly interested in **theoretical computer science**. More specifically, 
 
 ### Publications
 
+<br>
+
 - **Sublinear Algorithms for TSP via Path Covers** \
   Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein, Amin Saberi\
   Submitted\
@@ -61,6 +63,7 @@ I am broadly interested in **theoretical computer science**. More specifically, 
  
 ### Fellowships & Awards
 
+<br>
 
 - Recipient of the **Krishnan Shah Graduate Fellowship 2023**.
 - Recipient of the **Charles and Katharine Lin Graduate Fellowship 2022**.
