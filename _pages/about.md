@@ -20,49 +20,41 @@ I am broadly interested in **theoretical computer science**. More specifically, 
     <br>
 </div>
 
-**Sublinear Algorithms for TSP via Path Covers** \
+**Sublinear Algorithms for TSP via Path Covers &nbsp; &nbsp; &nbsp; (Submitted)** \
   Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein, Amin Saberi\
-  Submitted\
   [Full Version](https://arxiv.org/abs/2301.05350)
 
-**Sublinear Time Algorithms and Complexity of Approximate Maximum Matching** \
+**Sublinear Time Algorithms and Complexity of Approximate Maximum Matching &nbsp; &nbsp; &nbsp; (STOC 2023)** \
   Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein\
-  **(STOC 2023)** ACM Symposium on Theory of Computing 2023.\
   [Full Version](https://arxiv.org/abs/2211.15843)
 
-**Beating Greedy Matching in Sublinear Time** \
+**Beating Greedy Matching in Sublinear Time &nbsp; &nbsp; &nbsp; (SODA 2023)** \
   Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein, Amin Saberi\
-  **(SODA 2023)** ACM-SIAM Symposium on Discrete Algorithms 2023.\
   [Full Version](https://arxiv.org/abs/2206.13057)
   
-**Improved Online Contention Resolution for Matchings and Applications to the Gig Economy**\
+**Improved Online Contention Resolution for Matchings and Applications to the Gig Economy &nbsp; &nbsp; &nbsp; (EC 2022)**\
   Tristan Pollner, Mohammad Roghani, Amin Saberi, David Wajc\
-  **(EC 2022)** ACM Conference on Economics and Computation 2022.\
   [Full Version](https://arxiv.org/abs/2205.08667)
   
-**Sequential Importance Sampling for Estimating Expectations over the Space of Perfect Matchings**\
+**Sequential Importance Sampling for Estimating Expectations over the Space of Perfect Matchings &nbsp; &nbsp; &nbsp; (Annals of Applied Probability)**\
   Yeganeh Alimohammadi, Persi Diaconis, Mohammad Roghani, Amin Saberi\
-  To appear in **Annals of Applied Probability**.\
   [Full Version](https://arxiv.org/abs/2107.00850)
  
-**Beating the Folklore Algorithm for Dynamic Matching**\
+**Beating the Folklore Algorithm for Dynamic Matching &nbsp; &nbsp; &nbsp; (ITCS 2022)**\
   Mohammad Roghani, Amin Saberi, David Wajc\
-  **(ITCS 2022)** Innovations in Theoretical Computer Science 2022.\
   [Full Version](https://arxiv.org/abs/2106.10321)
 
-**Complexity of Computing the Anti-Ramsey Numbers for Paths**\
+**Complexity of Computing the Anti-Ramsey Numbers for Paths &nbsp; &nbsp; &nbsp; (MFCS 2020)**\
   Saeed Akhoondian Amiri, Alexandru Popa, Mohammad Roghani, Golnoosh Shahkarami, Reza Soltani, Hossein Vahidi\
-  **(MFCS 2020)** International Symposium on Mathematical Foundations of Computer Science 2020.\
   [Full Version](https://arxiv.org/abs/1810.08004)
   
-**Some Results on Dominating Induced Matching**\
+**Some Results on Dominating Induced Matching &nbsp; &nbsp; &nbsp; (Graphs and Combinatorics)**\
   Saieed Akbari, Hossein Baktash, Amin Behjati, Afshin Behmaram, Mohammad Roghani\
   **Graphs and Combinatorics**.\
   [Full Version](https://arxiv.org/abs/1912.00511)
   
-**TPS (Task Preparation System): A Tool for Developing Tasks in Programming Contests**\
+**TPS (Task Preparation System): A Tool for Developing Tasks in Programming Contests &nbsp; &nbsp; &nbsp; (Olympiads in Informatics 2019)**\
   Kian Mirjalali, Amirkeivan Mohtashami, Mohammad Roghani, Hamid Zarrabi-Zadeh\
-  **Olympiads in Informatics 2019**.\
   [Full Version](https://ioinformatics.org/journal/v13_2019_209_216.pdf)
  
  <br>
