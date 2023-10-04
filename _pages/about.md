@@ -30,38 +30,31 @@ In the summer of 2022 and 2023, I was an intern in the **dynamic pricing** team 
 
 **Beating Greedy Matching in Sublinear Time** \
   Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein, Amin Saberi\
-  **(SODA 2023)** ACM-SIAM Symposium on Discrete Algorithms 2023\
-  [Full Version](https://arxiv.org/abs/2206.13057)
+  **(SODA 2023)** ACM-SIAM Symposium on Discrete Algorithms 2023 -- [Full Version](https://arxiv.org/abs/2206.13057)
 
 **Improved Online Contention Resolution for Matchings and Applications to the Gig Economy**\
   Tristan Pollner, Mohammad Roghani, Amin Saberi, David Wajc\
-  **(EC 2022)** ACM Conference on Economics and Computation 2022\
-  [Full Version](https://arxiv.org/abs/2205.08667)
+  **(EC 2022)** ACM Conference on Economics and Computation 2022 -- [Full Version](https://arxiv.org/abs/2205.08667)
 
 **Sequential Importance Sampling for Estimating Expectations over the Space of Perfect Matchings**\
   Yeganeh Alimohammadi, Persi Diaconis, Mohammad Roghani, Amin Saberi\
-  **Annals of Applied Probability**\
-  [Full Version](https://arxiv.org/abs/2107.00850)
+  **Annals of Applied Probability** -- [Full Version](https://arxiv.org/abs/2107.00850)
 
 **Beating the Folklore Algorithm for Dynamic Matching**\
   Mohammad Roghani, Amin Saberi, David Wajc\
-  **(ITCS 2022)** Innovations in Theoretical Computer Science 2022\
-  [Full Version](https://arxiv.org/abs/2106.10321)
+  **(ITCS 2022)** Innovations in Theoretical Computer Science 2022 -- [Full Version](https://arxiv.org/abs/2106.10321)
 
 **Complexity of Computing the Anti-Ramsey Numbers for Paths**\
   Saeed Akhoondian Amiri, Alexandru Popa, Mohammad Roghani, Golnoosh Shahkarami, Reza Soltani, Hossein Vahidi\
-  **(MFCS 2020)** International Symposium on Mathematical Foundations of Computer Science 2020\
-  [Full Version](https://arxiv.org/abs/1810.08004)
+  **(MFCS 2020)** International Symposium on Mathematical Foundations of Computer Science 2020 --[Full Version](https://arxiv.org/abs/1810.08004)
 
 **Some Results on Dominating Induced Matching**\
   Saieed Akbari, Hossein Baktash, Amin Behjati, Afshin Behmaram, Mohammad Roghani\
-  **Graphs and Combinatorics**\
-  [Full Version](https://arxiv.org/abs/1912.00511)
+  **Graphs and Combinatorics** -- [Full Version](https://arxiv.org/abs/1912.00511)
 
 **TPS (Task Preparation System): A Tool for Developing Tasks in Programming Contests**\
   Kian Mirjalali, Amirkeivan Mohtashami, Mohammad Roghani, Hamid Zarrabi-Zadeh\
-  **Olympiads in Informatics 2019**\
-  [Full Version](https://ioinformatics.org/journal/v13_2019_209_216.pdf)
+  **Olympiads in Informatics 2019** -- [Full Version](https://ioinformatics.org/journal/v13_2019_209_216.pdf)
 
  <br>
 
@@ -74,14 +67,12 @@ In the summer of 2022 and 2023, I was an intern in the **dynamic pricing** team 
 
  **Fully Dynamic Matching: -Approximation in Polylog Update Time** \
   Amir Azarmehr, Soheil Behnezhad, Mohammad Roghani \
-  Submitted\
-  [Full Version](https://arxiv.org/abs/2307.08772)
+  Submitted -- [Full Version](https://arxiv.org/abs/2307.08772)
 
 
 **Sublinear Algorithms for TSP via Path Covers** \
   Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein, Amin Saberi\
-  Submitted\
-  [Full Version](https://arxiv.org/abs/2301.05350)
+  Submitted -- [Full Version](https://arxiv.org/abs/2301.05350)
 
 
 
