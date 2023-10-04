@@ -26,8 +26,7 @@ In the summer of 2022 and 2023, I was an intern in the **dynamic pricing** team 
 
 **Sublinear Time Algorithms and Complexity of Approximate Maximum Matching** \
   Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein\
-  **(STOC 2023)** ACM Symposium on Theory of Computing 2023\
-  [Full Version](https://arxiv.org/abs/2211.15843)
+  **(STOC 2023)** ACM Symposium on Theory of Computing 2023 -- [Full Version](https://arxiv.org/abs/2211.15843)\
 
 **Beating Greedy Matching in Sublinear Time** \
   Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein, Amin Saberi\
