@@ -69,6 +69,10 @@ In the summer of 2022 and 2023, I was an intern in the **dynamic pricing** team 
 
 ### Manuscripts
 
+<div style="line-height:150%;">
+    <br>
+</div>
+
  **Fully Dynamic Matching: -Approximation in Polylog Update Time** \
   Amir Azarmehr, Soheil Behnezhad, Mohammad Roghani \
   Submitted\
