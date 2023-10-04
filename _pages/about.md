@@ -65,7 +65,7 @@ In the summer of 2022 and 2023, I was an intern in the **dynamic pricing** team 
     <br>
 </div>
 
- **Fully Dynamic Matching: -Approximation in Polylog Update Time** \
+ **Fully Dynamic Matching: $(2-\sqrt{2})$-Approximation in Polylog Update Time** \
   Amir Azarmehr, Soheil Behnezhad, Mohammad Roghani \
   Submitted -- [Full Version](https://arxiv.org/abs/2307.08772)
 
