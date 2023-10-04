@@ -46,7 +46,7 @@ In the summer of 2022 and 2023, I was an intern in the **dynamic pricing** team 
 
 **Complexity of Computing the Anti-Ramsey Numbers for Paths**\
   Saeed Akhoondian Amiri, Alexandru Popa, Mohammad Roghani, Golnoosh Shahkarami, Reza Soltani, Hossein Vahidi\
-  **(MFCS 2020)** International Symposium on Mathematical Foundations of Computer Science 2020 --[Full Version](https://arxiv.org/abs/1810.08004)
+  **(MFCS 2020)** International Symposium on Mathematical Foundations of Computer Science 2020 -- [Full Version](https://arxiv.org/abs/1810.08004)
 
 **Some Results on Dominating Induced Matching**\
   Saieed Akbari, Hossein Baktash, Amin Behjati, Afshin Behmaram, Mohammad Roghani\
