@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second year Ph.D. student at [Stanford University](https://www.stanford.edu/), where I am very fortunate to be advised by [Amin Saberi](https://web.stanford.edu/~saberi/) and [Aviad Rubinstein](https://cs.stanford.edu/~aviad/). Before joining Stanford University, I received my B.Sc. in Computer Engineering from [Sharif University of Technology](https://en.sharif.edu/). In the summer of 2022, I was an intern in the **dynamic pricing** team at [Uber](https://www.uber.com/) working on riders' surge pricing.
-I am broadly interested in **theoretical computer science**. More specifically, I am working on designing algorithms for large-scale graph problems and graph problems in an uncertain environment, which includes **sublinear algorithms**, **dynamic algorithms**, and **online algorithms**. 
+I am a second year Ph.D. student at [Stanford University](https://www.stanford.edu/), where I am very fortunate to be advised by [Amin Saberi](https://web.stanford.edu/~saberi/) and [Aviad Rubinstein](https://cs.stanford.edu/~aviad/). Before joining Stanford University, I received my B.Sc. in Computer Engineering from [Sharif University of Technology](https://en.sharif.edu/). I am broadly interested in **theoretical computer science**. More specifically, I am working on designing algorithms for large-scale graph problems and graph problems in an uncertain environment, which includes **sublinear algorithms**, **dynamic algorithms**, **local computation algorithm (LCA)**, and **online algorithms**. 
+
+In the summer of 2022 and 2023, I was an intern in the **dynamic pricing** team at [Uber](https://www.uber.com/) working on riders' surge pricing.
 
 <br>
 
@@ -18,10 +19,6 @@ I am broadly interested in **theoretical computer science**. More specifically, 
     <br>
 </div>
 
-**Sublinear Algorithms for TSP via Path Covers** \
-  Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein, Amin Saberi\
-  Submitted\
-  [Full Version](https://arxiv.org/abs/2301.05350)
 
 **Local Computation Algorithms for Maximum Matching: New Lower Bounds** \
   Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein\
@@ -69,6 +66,23 @@ I am broadly interested in **theoretical computer science**. More specifically, 
 
  <br>
 
+
+### Manuscripts
+
+ **Fully Dynamic Matching: -Approximation in Polylog Update Time** \
+  Amir Azarmehr, Soheil Behnezhad, Mohammad Roghani \
+  Submitted\
+  [Full Version](https://arxiv.org/abs/2307.08772)
+
+
+**Sublinear Algorithms for TSP via Path Covers** \
+  Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein, Amin Saberi\
+  Submitted\
+  [Full Version](https://arxiv.org/abs/2301.05350)
+
+
+
+<br>
  
 ### Fellowships & Awards
 
