@@ -73,7 +73,7 @@ In the summer of 2022 and 2023, I was an intern in the **dynamic pricing** team 
 
 **Sublinear Algorithms for TSP via Path Covers** \
   Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein, Amin Saberi\
-  Submitted -- [Full Version](https://arxiv.org/abs/2301.05350)
+  [Full Version](https://arxiv.org/abs/2301.05350)
 
 
 
