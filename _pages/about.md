@@ -20,6 +20,11 @@ In the summer of 2022 and 2023, I was an intern in the **dynamic pricing** team 
 </div>
 
 
+ **Fully Dynamic Matching: $(2-\sqrt{2})$-Approximation in Polylog Update Time** \
+  Amir Azarmehr, Soheil Behnezhad, Mohammad Roghani \
+  **(SODA 2024)** ACM-SIAM Symposium on Discrete Algorithms 2024 -- [Full Version](https://arxiv.org/abs/2307.08772)
+
+
 **Local Computation Algorithms for Maximum Matching: New Lower Bounds** \
   Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein\
   **(FOCS 2023)** IEEE Symposium on Foundations of Computer Science 2023
@@ -64,10 +69,6 @@ In the summer of 2022 and 2023, I was an intern in the **dynamic pricing** team 
 <div style="line-height:150%;">
     <br>
 </div>
-
- **Fully Dynamic Matching: $(2-\sqrt{2})$-Approximation in Polylog Update Time** \
-  Amir Azarmehr, Soheil Behnezhad, Mohammad Roghani \
-  Submitted -- [Full Version](https://arxiv.org/abs/2307.08772)
 
 
 **Sublinear Algorithms for TSP via Path Covers** \
