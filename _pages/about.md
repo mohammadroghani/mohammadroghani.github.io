@@ -27,7 +27,7 @@ In the summer of 2022 and 2023, I was an intern in the **dynamic pricing** team 
 
 **Local Computation Algorithms for Maximum Matching: New Lower Bounds** \
   Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein\
-  **(FOCS 2023)** IEEE Symposium on Foundations of Computer Science 2023
+  **(FOCS 2023)** IEEE Symposium on Foundations of Computer Science 2023 -- [Full Version](https://arxiv.org/abs/2311.09359)
 
 **Sublinear Time Algorithms and Complexity of Approximate Maximum Matching** \
   Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein\
