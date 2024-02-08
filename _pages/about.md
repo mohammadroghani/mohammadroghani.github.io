@@ -20,6 +20,11 @@ In the summer of 2022 and 2023, I was an intern in the **dynamic pricing** team 
 </div>
 
 
+**Approximating Maximum Matching Requires Almost Quadratic Time** \
+  Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein\
+  **(STOC 2024)** ACM Symposium on Theory of Computing 2024
+
+
  **Fully Dynamic Matching: $(2-\sqrt{2})$-Approximation in Polylog Update Time** \
   Amir Azarmehr, Soheil Behnezhad, Mohammad Roghani \
   **(SODA 2024)** ACM-SIAM Symposium on Discrete Algorithms 2024 -- [Full Version](https://arxiv.org/abs/2307.08772)
