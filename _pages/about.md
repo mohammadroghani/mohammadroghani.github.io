@@ -20,6 +20,11 @@ In the summer of 2022 and 2023, I was an intern in the **dynamic pricing** team 
 </div>
 
 
+**Sublinear Algorithms for TSP via Path Covers** \
+  Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein, Amin Saberi\
+  **(ICALP 2024)** International Colloquium on Automata, Languages and Programming 2024 -- [Full Version](https://arxiv.org/abs/2301.05350)
+
+
 **Approximating Maximum Matching Requires Almost Quadratic Time** \
   Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein\
   **(STOC 2024)** ACM Symposium on Theory of Computing 2024
@@ -68,21 +73,6 @@ In the summer of 2022 and 2023, I was an intern in the **dynamic pricing** team 
 
  <br>
 
-
-### Manuscripts
-
-<div style="line-height:150%;">
-    <br>
-</div>
-
-
-**Sublinear Algorithms for TSP via Path Covers** \
-  Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein, Amin Saberi\
-  [Full Version](https://arxiv.org/abs/2301.05350)
-
-
-
-<br>
  
 ### Fellowships & Awards
 
