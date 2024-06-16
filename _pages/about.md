@@ -21,7 +21,7 @@ In the summer of 2022 and 2023, I was an intern in the **dynamic pricing** team 
 
 **Bipartite Matching in Massive Graphs: A Tight Analysis of EDCS** \
   Amir Azarmehr, Soheil Behnezhad, Mohammad Roghani \
-  **(ICML 2024)** International Conference on Machine Learning 2024
+  **(ICML 2024)** International Conference on Machine Learning 2024 -- [Full Version](https://arxiv.org/abs/2406.07630)
 
 
 **Sublinear Algorithms for TSP via Path Covers** \
@@ -31,7 +31,7 @@ In the summer of 2022 and 2023, I was an intern in the **dynamic pricing** team 
 
 **Approximating Maximum Matching Requires Almost Quadratic Time** \
   Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein\
-  **(STOC 2024)** ACM Symposium on Theory of Computing 2024
+  **(STOC 2024)** ACM Symposium on Theory of Computing 2024 -- [Full Version](https://arxiv.org/abs/2406.08595)
 
 
  **Fully Dynamic Matching: $(2-\sqrt{2})$-Approximation in Polylog Update Time** \
