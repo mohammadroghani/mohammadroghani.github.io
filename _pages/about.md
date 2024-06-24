@@ -19,6 +19,11 @@ In the summer of 2022 and 2023, I was an intern in the **dynamic pricing** team 
     <br>
 </div>
 
+
+**Hardness of Approximate Sperner and Applications to Envy-Free Cake Cutting** \
+  Ruiquan Gao, Mohammad Roghani, Aviad Rubinstein, Amin Saberi\
+  **(FOCS 2024)** IEEE Symposium on Foundations of Computer Science 2024
+
 **Bipartite Matching in Massive Graphs: A Tight Analysis of EDCS** \
   Amir Azarmehr, Soheil Behnezhad, Mohammad Roghani \
   **(ICML 2024)** International Conference on Machine Learning 2024 -- [Full Version](https://arxiv.org/abs/2406.07630)
