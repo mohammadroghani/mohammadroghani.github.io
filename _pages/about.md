@@ -9,8 +9,7 @@ redirect_from:
 ---
 I am a third-year Ph.D. student at [Stanford University](https://www.stanford.edu/), where I am very fortunate to be advised by [Amin Saberi](https://web.stanford.edu/~saberi/) and [Aviad Rubinstein](https://cs.stanford.edu/~aviad/). Before joining Stanford University, I received my B.Sc. in Computer Engineering from [Sharif University of Technology](https://en.sharif.edu/). I am broadly interested in **theoretical computer science**. More specifically, I am working on designing algorithms for large-scale graph problems and graph problems in an uncertain environment, which includes **sublinear algorithms**, **dynamic algorithms**, **local computation algorithm (LCA)**, and **online algorithms**. 
 
-In the summer of 2022 and 2023, I was an intern in the **dynamic pricing** team at [Uber](https://www.uber.com/) working on riders' surge pricing.
-
+Currently, I am a research intern in the [Algorithm Group](https://www.microsoft.com/en-us/research/group/algorithms-redmond/overview/) at **Microsoft Research**. In the summer of 2022 and 2023, I was an intern in the dynamic pricing team at **Uber**.
 <br>
 
 ### Publications
