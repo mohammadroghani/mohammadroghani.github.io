@@ -88,6 +88,7 @@ Currently, I am a research intern in the [Algorithm Group](https://www.microsoft
     <br>
 </div>
 
+Recipient of the **Dantzig-Lieberman Operations Research Graduate Fellowship 2024**.\
 Recipient of the **Krishnan Shah Graduate Fellowship 2023**.\
 Recipient of the **Charles and Katharine Lin Graduate Fellowship 2022**.\
 Recipient of the **Eltoukhy Family Graduate Fellowship 2021**.\
