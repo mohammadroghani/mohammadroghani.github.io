@@ -21,7 +21,8 @@ Currently, I am a research intern in the [Algorithm Group](https://www.microsoft
 
 **Hardness of Approximate Sperner and Applications to Envy-Free Cake Cutting** \
   Ruiquan Gao, Mohammad Roghani, Aviad Rubinstein, Amin Saberi\
-  **(FOCS 2024)** IEEE Symposium on Foundations of Computer Science 2024
+  **(FOCS 2024)** IEEE Symposium on Foundations of Computer Science 2024 -- [Full Version](http://arxiv.org/abs/2409.15713)
+  
 
 **Bipartite Matching in Massive Graphs: A Tight Analysis of EDCS** \
   Amir Azarmehr, Soheil Behnezhad, Mohammad Roghani \
