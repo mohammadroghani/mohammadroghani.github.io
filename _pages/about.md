@@ -20,6 +20,16 @@ In the summer of 2024, I was a research intern in the [Algorithm Group](https://
 </div>
 
 
+**Stable Matching with Interviews** \
+  Itai Ashlagi, Jiale Chen, Mohammad Roghani, Amin Saberi\
+  **(ITCS 2025)** Innovations in Theoretical Computer Science 2025
+
+
+**Sublinear Metric Steiner Tree via Improved Bounds for Set Cover** \
+  Sepideh Mahabadi, Mohammad Roghani, Jakub Tarnawski, Ali Vakilian\
+  **(ITCS 2025)** Innovations in Theoretical Computer Science 2025
+
+
 **Hardness of Approximate Sperner and Applications to Envy-Free Cake Cutting** \
   Ruiquan Gao, Mohammad Roghani, Aviad Rubinstein, Amin Saberi\
   **(FOCS 2024)** IEEE Symposium on Foundations of Computer Science 2024 -- [Full Version](http://arxiv.org/abs/2409.15713)
