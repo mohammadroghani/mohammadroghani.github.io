@@ -27,7 +27,7 @@ In the summer of 2024, I was a research intern in the [Algorithm Group](https://
 
 **Sublinear Metric Steiner Tree via Improved Bounds for Set Cover** \
   Sepideh Mahabadi, Mohammad Roghani, Jakub Tarnawski, Ali Vakilian\
-  **(ITCS 2025)** Innovations in Theoretical Computer Science 2025
+  **(ITCS 2025)** Innovations in Theoretical Computer Science 2025 -- [Full Version](https://arxiv.org/abs/2411.09059)
 
 
 **Hardness of Approximate Sperner and Applications to Envy-Free Cake Cutting** \
