@@ -22,7 +22,8 @@ In the summer of 2024, I was a research intern in the [Algorithm Group](https://
 
 **Stable Matching with Interviews** \
   Itai Ashlagi, Jiale Chen, Mohammad Roghani, Amin Saberi\
-  **(ITCS 2025)** Innovations in Theoretical Computer Science 2025
+  **(ITCS 2025)** Innovations in Theoretical Computer Science 2025 -- [Full Version](https://arxiv.org/pdf/2501.12503)
+
 
 
 **Sublinear Metric Steiner Tree via Improved Bounds for Set Cover** \
