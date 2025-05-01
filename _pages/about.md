@@ -20,6 +20,14 @@ In the summer of 2024, I was a research intern in the [Algorithm Group](https://
 </div>
 
 
+
+
+**A 0.51-Approximation of Maximum Matching in Sublinear $n^{1.5}$ Time**\
+  Sepideh Mahabadi, Mohammad Roghani, Jakub Tarnawski\
+  **(ICALP 2025)** International Colloquium on Automata, Languages and Programming 2025
+
+
+
 **Stable Matching with Interviews** \
   Itai Ashlagi, Jiale Chen, Mohammad Roghani, Amin Saberi\
   **(ITCS 2025)** Innovations in Theoretical Computer Science 2025 -- [Full Version](https://arxiv.org/pdf/2501.12503)
