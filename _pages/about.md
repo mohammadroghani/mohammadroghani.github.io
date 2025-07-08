@@ -21,6 +21,10 @@ In the summer of 2024, I was a research intern in the [Algorithm Group](https://
 
 
 
+**Tight Pair Query Lower Bounds for Matching and Earth Mover's Distance**\
+  Amir Azarmehr, Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein \
+  **(FOCS 2025)** IEEE Symposium on Foundations of Computer Science 2025
+
 
 **A 0.51-Approximation of Maximum Matching in Sublinear $n^{1.5}$ Time**\
   Sepideh Mahabadi, Mohammad Roghani, Jakub Tarnawski\
