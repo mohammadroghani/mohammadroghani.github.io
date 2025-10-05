@@ -20,6 +20,17 @@ In the summer of 2024, I was a research intern in the [Algorithm Group](https://
 </div>
 
 
+**Sublinear Metric Steiner Forest via Maximal Independent Set** \
+  Sepideh Mahabadi, Mohammad Roghani, Jakub Tarnawski, Ali Vakilian \
+  **(SODA 2026)** ACM-SIAM Symposium on Discrete Algorithms 2026
+
+
+
+**Improved Approximation for Ranking on General Graphs** \
+  Mahsa Derakhshan, Mohammad Roghani, Mohammad Saneian, Tao Yu \
+  **(SODA 2026)** ACM-SIAM Symposium on Discrete Algorithms 2026
+
+
 
 **Tight Pair Query Lower Bounds for Matching and Earth Mover's Distance**\
   Amir Azarmehr, Soheil Behnezhad, Mohammad Roghani, Aviad Rubinstein \
