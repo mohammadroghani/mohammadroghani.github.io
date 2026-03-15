@@ -123,6 +123,13 @@ In the summer of 2025, I worked as a research intern in the [Machine Learning Re
 
  <br>
 
+ ### PhD Dissertation
+
+**Matching in Massive Graphs** -- [Full Version](https://mohammadroghani.github.io/files/thesis.pdf)
+
+<br>
+
+
  
 ### Fellowships & Awards
 
