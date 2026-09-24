@@ -20,6 +20,15 @@ In the summer of 2025, I worked as a research intern in the [Machine Learning Re
 </div>
 
 
+
+
+
+**Stochastic Matching via Local Sparsification** \
+  Sara Ahmadian, Edith Cohen, Mohammad Roghani \
+  **(NeurIPS 2026)** Conference on Neural Information Processing Systems -- [Full Version](https://arxiv.org/pdf/2605.14195)
+
+
+
 **Sublinear Metric Steiner Forest via Maximal Independent Set** \
   Sepideh Mahabadi, Mohammad Roghani, Jakub Tarnawski, Ali Vakilian \
   **(SODA 2026)** ACM-SIAM Symposium on Discrete Algorithms 2026 -- [Full Version](https://arxiv.org/pdf/2510.11627)
